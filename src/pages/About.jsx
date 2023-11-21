@@ -1,8 +1,9 @@
+import Footer from "../components/Footer";
 
 
 export default function About() {
     
-    return <div className=" w-11/12 lg:w-2/5 mx-auto mt-10 	"><div >
+    return <div className=" w-11/12 lg:w-1/2 mx-auto mt-10 	"><div >
     Mark Anthony Cayanan grew up in Angeles City, Philippines. 
     
     They obtained an MFA from the University of Wisconsin in Madison and a PhD from the University of Adelaide, where they received a Dean’s Commendation for Doctoral Thesis Excellence and the 2021 Doctoral Research Medal. 
@@ -40,7 +41,9 @@ export default function About() {
     <li>
         Writing Fellow, Civitella Ranieri Foundation in Umbertide, Italy (2013), <a href="https://civitella.org/fellow/mark-cayanan/" target="_blank" rel="noopener noreferrer">Civitella Ranieri Foundation</a>
     </li>
-</ul></div>
+</ul>
+<Footer/>
+</div>
 };
 
 

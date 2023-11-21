@@ -1,12 +1,13 @@
-import { SocialIcon } from 'react-social-icons'
+import Footer from "../components/Footer";
+
 
 export default function Contact() {
      
 
-    return <div className=" w-11/12 lg:w-2/5 mx-auto mt-10">
+    return <div className=" w-11/12 lg:w-1/2 mx-auto mt-10">
 
 <div className="flex justify-center items-center flex-col">
-        <h1 className="sm:text-2xl mt-3 sm:w-2/3 text-center">
+        <h1 className="text-xl md:text-2xl mt-3 sm:w-2/3 text-center">
         To touch base, just shoot me an email (mcayanan@gmail.com) or fill out the form below!
         </h1>
    
@@ -51,14 +52,9 @@ export default function Contact() {
           />
         </div>
       </form>
-<br /><br /><br /><br /><br />
-    {/* <h2>Socials</h2> */}
-      <hr />
-    <div className='w-11/12 lg:w-2/5 mx-auto mt-10 flex justify-between'>
-    <SocialIcon url="https://www.instagram.com/darling_daintyfoot/" ></SocialIcon>
-    <SocialIcon url="https://www.facebook.com/mcayanan" ></SocialIcon>
-    <SocialIcon url="https://linktr.ee/mcayanan"></SocialIcon>
-</div>
+
+    <Footer/>
+  
   </div>
  
 }

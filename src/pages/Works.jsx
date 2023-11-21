@@ -1,9 +1,10 @@
+import Footer from "../components/Footer";
 
 
 export default function Works() {
     
 
-    return <div className="w-11/12 lg:w-1/2 mx-auto mt-10 bg-">
+    return <div className="w-11/12 lg:w-1/2 mx-auto mt-10 ">
 
     
 
@@ -48,80 +49,80 @@ export default function Works() {
           <a href="https://tldtd.org/poet/mark-anthony-cayanan/" target="_blank" rel="noopener noreferrer">“Foundation Day,” “Dramaticule: The Townsfolk,” and “A Wall of Trees Conceals Our Town from Another”</a>in <i>TLDTD</i>
         </li>
         <li>
-          “Still Lifes with Fever” in Kritika Kultura
-          <a href="https://ajol.ateneo.edu/kk/articles/570/7411" target="_blank" rel="noopener noreferrer">Read more</a> 
+           
+          <a href="https://ajol.ateneo.edu/kk/articles/570/7411" target="_blank" rel="noopener noreferrer">“Still Lifes with Fever”</a> in <i>Kritika Kultura</i>
         </li>
         <li>
-          “Dramaticule: Faith Is Relentless Agreement” in Indiana Review
+          “Dramaticule: Faith Is Relentless Agreement” in <i>Indiana Review</i>
           {/* Add link */}
         </li>
         <li>
-          “Give me a reason to abandon everything” in Pandan Weekly
-          <a href="https://sealitcircle.wixsite.com/pandanweekly/post/give-me-a-reason-to-abandon-everything-mark-anthony-cayanan" target="_blank" rel="noopener noreferrer">Read more</a>
+           
+          <a href="https://sealitcircle.wixsite.com/pandanweekly/post/give-me-a-reason-to-abandon-everything-mark-anthony-cayanan" target="_blank" rel="noopener noreferrer">“Give me a reason to abandon everything”</a> in <i>Pandan Weekly</i>
         </li>
         <li>
-          “The Wilderness Was the Time Between Prophets” and “The New Abandon” in FE, Fonograf Editions Magazine
-          <a href="https://fonografeditions.com/catalog/f0no15-fe-print-magazine/" target="_blank" rel="noopener noreferrer">Read more</a>
+           
+          <a href="https://fonografeditions.com/catalog/f0no15-fe-print-magazine/" target="_blank" rel="noopener noreferrer">“The Wilderness Was the Time Between Prophets” and “The New Abandon”</a> in <i>FE, Fonograf Editions Magazine</i>
         </li>
         <li>
-          “A Potted History of Fervour” in Australian Poetry Journal
-          <a href="https://www.australianpoetry.org/australian-poetry-journal/" target="_blank" rel="noopener noreferrer">Read more</a>
+           
+          <a href="https://www.australianpoetry.org/australian-poetry-journal/" target="_blank" rel="noopener noreferrer">“A Potted History of Fervour”</a> in <i>Australian Poetry Journal</i> 
         </li>
         <li>
-          “A Potted History of Fevers” (The just war was slow weather) in Asiatic: IIUM Journal of English Language and Literature
-          <a href="https://journals.iium.edu.my/asiatic/index.php/ajell/article/view/2359" target="_blank" rel="noopener noreferrer">Read more</a>
+            
+          <a href="https://journals.iium.edu.my/asiatic/index.php/ajell/article/view/2359" target="_blank" rel="noopener noreferrer">“A Potted History of Fevers” (The just war was slow weather)</a> in <i>Asiatic: IIUM Journal of English Language and Literature</i>
         </li>
         <li>
-          “A Study of Two Towns” and “Miracle Town, A Timeline of the 20th Century” in Kenyon Review Online
-          <a href="https://kenyonreview.org/kr-online-issue/2021-novdec/selections/mark-anthony-cayanan-763879/" target="_blank" rel="noopener noreferrer">Read more</a>
+           
+          <a href="https://kenyonreview.org/kr-online-issue/2021-novdec/selections/mark-anthony-cayanan-763879/" target="_blank" rel="noopener noreferrer">“A Study of Two Towns” and “Miracle Town, A Timeline of the 20th Century”</a> in <i>Kenyon Review Online</i>
         </li>
         <li>
-          “Measurable Ardours” in Rabbit Poetry Journal
-          <a href="https://rabbitpoetry.com/shop/33-asia" target="_blank" rel="noopener noreferrer">Read more</a>
+           
+          <a href="https://rabbitpoetry.com/shop/33-asia" target="_blank" rel="noopener noreferrer">“Measurable Ardours”</a> in <i>Rabbit Poetry Journal</i>
         </li>
         <li>
-          “A Potted History of Fevers” (Because we believed the prophet) in Peripheries: A Journal of Word and Image
-          <a href="https://www.peripheriesjournal.com/_files/ugd/b277e5_901f9f75352f404d83b5de4b1b06365e.pdf" target="_blank" rel="noopener noreferrer">Read more</a>
+           
+          <a href="https://www.peripheriesjournal.com/_files/ugd/b277e5_901f9f75352f404d83b5de4b1b06365e.pdf" target="_blank" rel="noopener noreferrer">“A Potted History of Fevers” (Because we believed the prophet)</a> in <i>Peripheries: A Journal of Word and Image</i>
         </li>
         <li>
-          “Royal Encomienda” in The Midwest Quarterly: A Journal of Contemporary Thought
-          <a href="https://www.pittstate.edu/info/midwestq/index.html" target="_blank" rel="noopener noreferrer">Read more</a>
+          
+          <a href="https://www.pittstate.edu/info/midwestq/index.html" target="_blank" rel="noopener noreferrer">“Royal Encomienda”</a>  in <i>The Midwest Quarterly: A Journal of Contemporary Thought</i>
         </li>
         <li>
-          “Essays on Transformation” in Pinwheel
-          <a href="http://pinwheeljournal.com/poets/mark-anthony-cayanan/" target="_blank" rel="noopener noreferrer">Read more</a>
+           
+          <a href="http://pinwheeljournal.com/poets/mark-anthony-cayanan/" target="_blank" rel="noopener noreferrer">“Essays on Transformation”</a> in <i>Pinwheel</i>
         </li>
         <li>
-          “Occluded World” in A/PART: An Anthology of Queer Southeast Asian Poetry in the Pandemic
-          <a href="https://seaqcf.net/program/a_part-anthology-queer-southeast-asian-poetry-pandemic?fbclid=IwAR0qMn3Uq8Y0iSoRPeuW28MDy3ZevnyK2OOjoLaZLTq_1HWdk9qNhmVNQg0" target="_blank" rel="noopener noreferrer">Read more</a>
+           
+          <a href="https://seaqcf.net/program/a_part-anthology-queer-southeast-asian-poetry-pandemic?fbclid=IwAR0qMn3Uq8Y0iSoRPeuW28MDy3ZevnyK2OOjoLaZLTq_1HWdk9qNhmVNQg0" target="_blank" rel="noopener noreferrer">“Occluded World”</a> in <i>A/PART: An Anthology of Queer Southeast Asian Poetry in the Pandemic</i>
         </li>
         <li>
-          “Ode to Boy” in The Commuter, Electric Literature
-          <a href="https://electricliterature.com/ode-to-boy-by-mark-anthony-cayanan/?fbclid=IwAR3FUkD2YEePTUzYy_o2qzHibZ_E_SZY6n_M2u15S3b65cHCga34uumuy1g" target="_blank" rel="noopener noreferrer">Read more</a>
+           
+          <a href="https://electricliterature.com/ode-to-boy-by-mark-anthony-cayanan/?fbclid=IwAR3FUkD2YEePTUzYy_o2qzHibZ_E_SZY6n_M2u15S3b65cHCga34uumuy1g" target="_blank" rel="noopener noreferrer">“Ode to Boy”</a> in <i>The Commuter, Electric Literature</i>
         </li>
         <li>
-          “As Aschenbach” (It should’ve gone some other way) in The Night Heron Barks
-          <a href="https://nightheronbarks.com/winter-2021/mark-anthony-cayanan/" target="_blank" rel="noopener noreferrer">Read more</a>
+           
+          <a href="https://nightheronbarks.com/winter-2021/mark-anthony-cayanan/" target="_blank" rel="noopener noreferrer">“As Aschenbach” (It should’ve gone some other way)</a> in <i>The Night Heron Barks</i>
         </li>
         <li>
-          “False Life” in Lana Turner: A Journal of Poetry & Opinion
-          <a href="https://www.lanaturnerjournal.com/category-s/140.htm" target="_blank" rel="noopener noreferrer">Read more</a>
+           
+          <a href="https://www.lanaturnerjournal.com/category-s/140.htm" target="_blank" rel="noopener noreferrer">“False Life”</a> in <i>Lana Turner: A Journal of Poetry & Opinion</i>
         </li>
         <li>
-          “No longer was he young and raw though the error remained young and raw” and “It’s you who are. What? / A hummingbird” in Social Alternatives
-          <a href="https://socialalternatives.com/issue/critical-reflections/" target="_blank" rel="noopener noreferrer">Read more</a>
+           
+          <a href="https://socialalternatives.com/issue/critical-reflections/" target="_blank" rel="noopener noreferrer">“No longer was he young and raw though the error remained young and raw” and “It’s you who are. What? / A hummingbird”</a> in <i>Social Alternatives</i>
         </li>
         <li>
-          Poems from “Ecstasy Facsimile” in Tomás: The Journal of the UST Center for Creative Writing and Literary Studies
-          <a href="https://tomas.ust.edu.ph/wp-content/uploads/2021/07/Tomás-Volume-3-Issue-2-UST-CCWLS.pdf" target="_blank" rel="noopener noreferrer">Read more</a>
+           
+          <a href="https://tomas.ust.edu.ph/wp-content/uploads/2021/07/Tomás-Volume-3-Issue-2-UST-CCWLS.pdf" target="_blank" rel="noopener noreferrer">Poems from “Ecstasy Facsimile”</a> in <i>Tomás: The Journal of the UST Center for Creative Writing and Literary Studies</i>
         </li>
         <li>
-          “Stillbirths Wrapped in Newsprint” in Overland
-          <a href="https://overland.org.au/previous-issues/poetry-in-lockdown/poetry-stillbirths-wrapped-in-newsprint/" target="_blank" rel="noopener noreferrer">Read more</a>
+           
+          <a href="https://overland.org.au/previous-issues/poetry-in-lockdown/poetry-stillbirths-wrapped-in-newsprint/" target="_blank" rel="noopener noreferrer">“Stillbirths Wrapped</a> in <i>Newsprint” in Overland</i>
         </li>
         <li>
-          “Ben Ben Ben Ben Ben” in Yes Poetry
-          <a href="https://www.yespoetry.com/news/mark-anthony-cayanan-ive-built-a-house" target="_blank" rel="noopener noreferrer">Read more</a>
+           
+          <a href="https://www.yespoetry.com/news/mark-anthony-cayanan-ive-built-a-house" target="_blank" rel="noopener noreferrer">“Ben Ben Ben Ben Ben”</a> in <i>Yes Poetry</i>
         </li>
         <li>
           “Vigil” in The Margins
@@ -216,5 +217,7 @@ export default function Works() {
           <a href="https://glittertongue.wordpress.com/cayanan-fatal-error-has-occurred/" target="_blank" rel="noopener noreferrer">Read more</a>
         </li>
       </ul>
+      <br /><br /><br /><br />
+      <Footer/>
     </div>
 };
