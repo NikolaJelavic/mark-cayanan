@@ -3,80 +3,53 @@
 export default function Works() {
     
 
-    return <div className="w-11/12 lg:w-1/2 mx-auto mt-10">
+    return <div className="w-11/12 lg:w-1/2 mx-auto mt-10 bg-">
 
-    <h2 className="mt-8 mb-4">Profiles and Write-ups</h2>
-
-    <ul>
-        <li>
-            Postdoctoral Research Fellow, <a href="https://www.ici-berlin.org/people/cayanan/" target="_blank" rel="noopener noreferrer">ICI Berlin Institute for Cultural Inquiry</a>
-        </li>
-        <li>
-            Assistant Professor, <a href="https://works.bepress.com/markanthony-cayanan/" target="_blank" rel="noopener noreferrer">Ateneo de Manila University</a>
-        </li>
-        <li>
-            A Conversation with Cyril Wong, <a href="http://queersoutheastasia.com/a-conversation-with-mark-anthony-cayanan-july-2021" target="_blank" rel="noopener noreferrer">Queer Southeast Asia</a>
-        </li>
-        <li>
-            Author, <a href="https://giramondopublishing.com/authors/mark-anthony-cayanan/" target="_blank" rel="noopener noreferrer">Giramondo Publishing</a>
-        </li>
-        <li>
-            Writing Fellow, Art Omi in New York, USA (September 2023), <a href="https://artomi.org/art-omi-writers-2023-fall/#" target="_blank" rel="noopener noreferrer">Art Omi</a>
-        </li>
-        <li>
-            Writer in Residence, Villa Sarkia in Sysmä, Finland (2019), <a href="https://villasarkia.wordpress.com/2019/02/20/i-remember/" target="_blank" rel="noopener noreferrer">Villa Sarkia</a>
-        </li>
-        <li>
-            Writing Fellow, Civitella Ranieri Foundation in Umbertide, Italy (2013), <a href="https://civitella.org/fellow/mark-cayanan/" target="_blank" rel="noopener noreferrer">Civitella Ranieri Foundation</a>
-        </li>
-    </ul>
+    
 
      <h2 className="mt-8 mb-4">Full-Length Poetry Books</h2>
       <ul>
         <li>
-          Unanimal, Counterfeit, Scurrilous. Giramondo Publishing, 2021.
-          <a href="https://giramondopublishing.com/books/unanimal-counterfeit-scurrilous/" target="_blank" rel="noopener noreferrer">More info</a>
+          <a href="https://giramondopublishing.com/books/unanimal-counterfeit-scurrilous/" target="_blank" rel="noopener noreferrer"><i>Unanimal, Counterfeit, Scurrilous.</i></a>  Giramondo Publishing, 2021.
         </li>
         <li>
-          Except You Enthrall Me. University of the Philippines Press, 2013.
-          <a href="https://press.up.edu.ph/project/except-you-enthrall-me/" target="_blank" rel="noopener noreferrer">More info</a>
+          
+          <a href="https://press.up.edu.ph/project/except-you-enthrall-me/" target="_blank" rel="noopener noreferrer"><i> Except You Enthrall Me.</i></a>University of the Philippines Press, 2013.
         </li>
         <li>
-          Narcissus. Ateneo de Manila University Press, 2011.
-          <a href="https://curiouscouch.wordpress.com/2011/10/15/narcissusmark-anthony-cayanan/" target="_blank" rel="noopener noreferrer">Read the introduction</a>
+          
+          <a href="https://curiouscouch.wordpress.com/2011/10/15/narcissusmark-anthony-cayanan/" > <i>Narcissus.</i></a>  Ateneo de Manila University Press, 2011.
         </li>
       </ul>
-
+     
       <h2 className="mt-8 mb-4">Chapbooks</h2>
       <ul>
-        <li>Long Hunger. Youth & Beauty Brigade, 2017.</li>
-        <li>Sentence. Youth & Beauty Brigade, 2017.</li>
-        <li>Forfeit. Youth & Beauty Brigade, 2015.</li>
-        <li>Shall We Be Kind and Suffer Each Other. High Chair, 2013.</li>
+        <li><i>Long Hunger.</i> Youth & Beauty Brigade, 2017.</li>
+        <li><i>Sentence.</i> Youth & Beauty Brigade, 2017.</li>
+        <li><i>Forfeit.</i> Youth & Beauty Brigade, 2015.</li>
+        <li><i><a href="https://drive.google.com/file/d/1zvYqez5rsrio4mHDLkr1po_-rttBrME1/view" target="_blank" rel="noopener noreferrer">Shall We Be Kind and Suffer Each Other.</a></i> High Chair, 2013.</li>
       </ul>
 
       <h2 className="mt-8 mb-4">Textbook & Anthology</h2>
       <ul>
-        <li>Fine Lines: Writing Poetry, Fiction, and Drama. Sibs Publishing House, 2016.</li>
-        <li>
-          The Kritika Kultura Anthology of New Philippine Writing in English (2011), co-edited by Conchitina Cruz and Adam David
-          <a href="https://journals.ateneo.edu/OJS/public/literary-supplement.pdf" target="_blank" rel="noopener noreferrer">More info</a>
+        <li><i>Fine Lines: Writing Poetry, Fiction, and Drama.</i> Sibs Publishing House, 2016.</li>
+        <li>         
+          <a href="https://journals.ateneo.edu/OJS/public/literary-supplement.pdf" target="_blank" rel="noopener noreferrer">The Kritika Kultura Anthology of New Philippine Writing in English</a>(2011), co-edited by Conchitina Cruz and Adam David
         </li>
       </ul>
 
       <h2 className="mt-8 mb-4">Recent Publications in Anthologies, Journals, and Magazines</h2>
       <ul>
         <li>
-          “Ecstasy Facsimile” (These days I ask god) in The Common Online
-          <a href="https://www.thecommononline.org/april-2023-poetry-feature/" target="_blank" rel="noopener noreferrer">Read more</a>
+          
+          <a href="https://www.thecommononline.org/april-2023-poetry-feature/" target="_blank" rel="noopener noreferrer">“Ecstasy Facsimile” </a> (These days I ask god) in <i>The Common Online</i>
         </li>
         <li>
-          “Foundation Day,” “Dramaticule: The Townsfolk,” and “A Wall of Tress Conceals Our Town from Another” in TLDTD
-          <a href="https://tldtd.org/poet/mark-anthony-cayanan/" target="_blank" rel="noopener noreferrer">Read more</a>
+          <a href="https://tldtd.org/poet/mark-anthony-cayanan/" target="_blank" rel="noopener noreferrer">“Foundation Day,” “Dramaticule: The Townsfolk,” and “A Wall of Trees Conceals Our Town from Another”</a>in <i>TLDTD</i>
         </li>
         <li>
           “Still Lifes with Fever” in Kritika Kultura
-          <a href="https://ajol.ateneo.edu/kk/articles/570/7411" target="_blank" rel="noopener noreferrer">Read more</a>
+          <a href="https://ajol.ateneo.edu/kk/articles/570/7411" target="_blank" rel="noopener noreferrer">Read more</a> 
         </li>
         <li>
           “Dramaticule: Faith Is Relentless Agreement” in Indiana Review
