@@ -27,7 +27,7 @@ export default function Works() {
 <div className="md:w-56 md:p-4 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 transition-transform transform hover:scale-105 hover:shadow-lg">
     <a href="https://giramondopublishing.com/books/unanimal-counterfeit-scurrilous/" target="_blank" rel="noopener noreferrer" className="block">
         <img
-            src="/src/img/Unanimal.jpg" 
+            src="./src/img/Unanimal.jpg" 
             alt="Image Alt Text"
             className="h-32 md:h-56 w-32 md:w-48 md:mb-4 rounded-lg transition-opacity"
         />
