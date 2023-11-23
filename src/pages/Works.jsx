@@ -4,12 +4,12 @@ import Footer from "../components/Footer";
 export default function Works() {
     
 
-    return <div className="w-11/12 lg:w-1/2 mx-auto mt-10 ">
+    return <div className="w-11/12 lg:w-1/2 mx-auto mt-10  ">
 
     
 
      <h2 className="mt-8 mb-4">Full-Length Poetry Books</h2>
-      <ul>
+      {/* <ul>
         <li>
           <a href="https://giramondopublishing.com/books/unanimal-counterfeit-scurrilous/" target="_blank" rel="noopener noreferrer"><i>Unanimal, Counterfeit, Scurrilous.</i></a>  Giramondo Publishing, 2021.
         </li>
@@ -21,8 +21,46 @@ export default function Works() {
           
           <a href="https://curiouscouch.wordpress.com/2011/10/15/narcissusmark-anthony-cayanan/" > <i>Narcissus.</i></a>  Ateneo de Manila University Press, 2011.
         </li>
-      </ul>
-     
+      </ul> */}
+      <div className="flex justify-between">
+
+<div className="md:w-56 md:p-4 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 transition-transform transform hover:scale-105 hover:shadow-lg">
+    <a href="https://giramondopublishing.com/books/unanimal-counterfeit-scurrilous/" target="_blank" rel="noopener noreferrer" className="block">
+        <img
+            src="/src/img/Unanimal.jpg" 
+            alt="Image Alt Text"
+            className="h-32 md:h-56 w-32 md:w-48 md:mb-4 rounded-lg transition-opacity"
+        />
+        <h5 className="mb-2 text-sm sm:text-md font-semibold tracking-tight text-gray-900 dark:text-white"> Unanimal, Counterfeit, Scurrilous.</h5>
+        <h5 className="text-xs">Giramondo Publishing, 2021.</h5>
+    </a>
+</div>
+      <div className="md:w-56 md:p-4 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 transition-transform transform hover:scale-105 hover:shadow-lg">
+    <a href="https://press.up.edu.ph/project/except-you-enthrall-me/" className="block" target="_blank" rel="noopener noreferrer">
+        <img
+            src="/src/img/Enthrall.jpg" 
+            alt="Image Alt Text"
+            className="h-32 md:h-56 w-32 md:w-48 md:mb-4 rounded-lg transition-opacity"
+        />
+        <h5 className="mb-2 text-sm sm:text-md font-semibold tracking-tight text-gray-900 dark:text-white">Except You Enthrall Me.</h5>
+        <h5 className="text-xs">University of the Philippines Press, 2013.</h5>
+    </a>
+</div>
+
+
+<div className="md:w-56 md:p-4 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 transition-transform transform hover:scale-105 hover:shadow-lg">
+    <a href="https://curiouscouch.wordpress.com/2011/10/15/narcissusmark-anthony-cayanan/" target="_blank" rel="noopener noreferrer" className="block">
+        <img
+            src="/src/img/Narcissus.jpg" 
+            alt="Image Alt Text"
+            className="h-32 md:h-56 w-32 md:w-48 md:mb-4 rounded-lg transition-opacity"
+        />
+        <h5 className="mb-2 text-sm sm:text-md font-semibold tracking-tight text-gray-900 dark:text-white">Narcissus.</h5>
+        <h5 className="text-xs">Ateneo de Manila University Press, 2011.</h5>
+    </a>
+</div>
+
+    </div>
       <h2 className="mt-8 mb-4">Chapbooks</h2>
       <ul>
         <li><i>Long Hunger.</i> Youth & Beauty Brigade, 2017.</li>
