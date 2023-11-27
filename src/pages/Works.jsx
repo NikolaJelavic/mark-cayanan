@@ -14,12 +14,11 @@ export default function Works() {
             className="block"
           >
             <img
-              src="./src/img/Unanimal.jpg"
+              src="img/unanimal.jpg"
               alt="Image Alt Text"
               className="h-32 md:h-56 w-32 md:w-48 md:mb-4 rounded-lg transition-opacity"
             />
             <h5 className="mb-2 text-sm sm:text-md font-semibold tracking-tight text-gray-900 dark:text-white">
-              {" "}
               Unanimal, Counterfeit, Scurrilous.
             </h5>
             <h5 className="text-xs">Giramondo Publishing, 2021.</h5>
@@ -33,7 +32,7 @@ export default function Works() {
             rel="noopener noreferrer"
           >
             <img
-              src="../src/img/Enthrall.jpg"
+              src="img/enthrall.jpg"
               alt="Image Alt Text"
               className="h-32 md:h-56 w-32 md:w-48 md:mb-4 rounded-lg transition-opacity"
             />
@@ -54,8 +53,7 @@ export default function Works() {
             className="block"
           >
             <img
-              src="../img/Narcissus.jpg"
-              // src="/src/img/Narcissus.jpg"
+              src="img/narcissus.jpg"
               alt="Image Alt Text"
               className="h-32 md:h-56 w-32 md:w-48 md:mb-4 rounded-lg transition-opacity"
             />
@@ -68,20 +66,47 @@ export default function Works() {
           </a>
         </div>
       </div>
-      
+
       <h2 className="mt-8 mb-4">Chapbooks</h2>
       <ul>
-        <li><i>Long Hunger.</i> Youth & Beauty Brigade, 2017.</li>
-        <li><i>Sentence.</i> Youth & Beauty Brigade, 2017.</li>
-        <li><i>Forfeit.</i> Youth & Beauty Brigade, 2015.</li>
-        <li><i><a href="https://drive.google.com/file/d/1zvYqez5rsrio4mHDLkr1po_-rttBrME1/view" target="_blank" rel="noopener noreferrer">Shall We Be Kind and Suffer Each Other.</a></i> High Chair, 2013.</li>
+        <li>
+          <i>Long Hunger.</i> Youth & Beauty Brigade, 2017.
+        </li>
+        <li>
+          <i>Sentence.</i> Youth & Beauty Brigade, 2017.
+        </li>
+        <li>
+          <i>Forfeit.</i> Youth & Beauty Brigade, 2015.
+        </li>
+        <li>
+          <i>
+            <a
+              href="https://drive.google.com/file/d/1zvYqez5rsrio4mHDLkr1po_-rttBrME1/view"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Shall We Be Kind and Suffer Each Other.
+            </a>
+          </i>{" "}
+          High Chair, 2013.
+        </li>
       </ul>
 
       <h2 className="mt-8 mb-4">Textbook & Anthology</h2>
       <ul>
-        <li><i>Fine Lines: Writing Poetry, Fiction, and Drama.</i> Sibs Publishing House, 2016.</li>
-        <li>         
-          <a href="https://journals.ateneo.edu/OJS/public/literary-supplement.pdf" target="_blank" rel="noopener noreferrer">The Kritika Kultura Anthology of New Philippine Writing in English</a>(2011), co-edited by Conchitina Cruz and Adam David
+        <li>
+          <i>Fine Lines: Writing Poetry, Fiction, and Drama.</i> Sibs Publishing
+          House, 2016.
+        </li>
+        <li>
+          <a
+            href="https://journals.ateneo.edu/OJS/public/literary-supplement.pdf"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            The Kritika Kultura Anthology of New Philippine Writing in English
+          </a>
+          (2011), co-edited by Conchitina Cruz and Adam David
         </li>
       </ul>
 
@@ -322,7 +347,6 @@ export default function Works() {
           in <i>Yes Poetry</i>
         </li>
         <li>
-          
           <a
             href="https://aaww.org/vigil/?fbclid=IwAR1ypyNT6DNbQdPhUtsMNNZWzItUAtHxWribcSEqbkJpZRDnma5S52iBgPU"
             target="_blank"
@@ -333,7 +357,6 @@ export default function Works() {
           in <i>The Margins</i>
         </li>
         <li>
-           
           <a
             href="https://thefigureone.com/4a/cayanan/"
             target="_blank"
@@ -344,7 +367,6 @@ export default function Works() {
           in <i>Figure 1</i>
         </li>
         <li>
-           
           <a
             href="https://www.eventmagazine.ca/product/event-483/"
             target="_blank"
@@ -355,19 +377,17 @@ export default function Works() {
           in <i>EVENT: Poetry and Prose</i>
         </li>
         <li>
-           
           <a
             href="https://www.baestjournal.com/mark-anthony-cayanan"
             target="_blank"
             rel="noopener noreferrer"
           >
-            “As Aschenbach” (There’s no knowing now),” “Aschenbach in Crisis,” and
-          “Notes on Terror”
+            “As Aschenbach” (There’s no knowing now),” “Aschenbach in Crisis,”
+            and “Notes on Terror”
           </a>
           in <i>Bæst</i>
         </li>
         <li>
-           
           <a
             href="https://www.thehungerjournal.com/naiive-and-sentimental-mac"
             target="_blank"
@@ -378,78 +398,72 @@ export default function Works() {
           in <i>The Hunger</i>
         </li>
         <li>
-          
           <a
             href="https://www.mascarareview.com/mark-anthony-cayanan/"
             target="_blank"
             rel="noopener noreferrer"
           >
-           “One Among”
+            “One Among”
           </a>
           in <i>Mascara Literary Review</i>
         </li>
         <li>
-           
           <a
             href="http://cordite.org.au/poetry/notheme8/poems-from-i-look-at-my-body-and-see-the-source-of-my-shame-ecstasy-facsimile/"
             target="_blank"
             rel="noopener noreferrer"
           >
             Two Poems from “I Look at My Body and See the Source of My Shame:
-          Ecstasy Facsimile”
+            Ecstasy Facsimile”
           </a>
           in <i>Cordite</i>
         </li>
         <li>
-           
           <a
             href="https://dreginald.com/index.php/issues/issue-seventeen/mark-anthony-cayanan"
             target="_blank"
             rel="noopener noreferrer"
           >
             Five Poems from “I Look at My Body and See the Source of My Shame:
-          Ecstasy Facsimile”
+            Ecstasy Facsimile”
           </a>
           in <i>Dreginald</i>
         </li>
         <li>
-           
           <a
             href="https://thespectacle.wustl.edu/?p=1106"
             target="_blank"
             rel="noopener noreferrer"
           >
             “Self-Portraits with Tyrannical Consistency,” “The World
-          Uncontrollably Slides into Bizarre and Grotesque Derangement,” and
-          “Ode to the Exit Sign”
+            Uncontrollably Slides into Bizarre and Grotesque Derangement,” and
+            “Ode to the Exit Sign”
           </a>
           in <i>The Spectacle</i>
         </li>
         <li>
-           
           <a
             href="https://issuu.com/craborchardreview/docs/crab_orchard_review_vol_24__no_1_ge_a4630ae869f3a7"
             target="_blank"
             rel="noopener noreferrer"
           >
             Poem from “I Look at My Body and See the Source of My Shame: Ecstasy
-          Facsimile”
+            Facsimile”
           </a>
           in <i>Crab Orchard Review</i>
         </li>
         <li>
-           
           <a
             href="https://journals.ateneo.edu/ojs/index.php/kk/article/view/3098/2919"
             target="_blank"
             rel="noopener noreferrer"
-          >Four Poems from “I Look at My Body and See the Source of My Shame:
-          Site Specific”
+          >
+            Four Poems from “I Look at My Body and See the Source of My Shame:
+            Site Specific”
           </a>
           in <i>Kritika Kultura</i>
         </li>
         <li>
-           
           <a
             href="https://foglifterjournal.com/product/foglifter-journal-volume-4-issue-1-e-book/"
             target="_blank"
@@ -460,7 +474,6 @@ export default function Works() {
           in <i>Foglifter</i>
         </li>
         <li>
-           
           <a
             href="https://www.stiltsjournal.com/single-post/2018/12/10/A-history-of-western-looking-Mark-Anthony-Cayanan"
             target="_blank"
@@ -471,108 +484,106 @@ export default function Works() {
           in <i>Stilts</i>
         </li>
         <li>
-          Three Poems from “I Look at My Body and See the Source of My Shame:
-          Ecstasy Facsimile” in Miracle Monocle
           <a
             href="https://louisville.edu/miraclemonocle/issue-11/mark-anthony-cayanan"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Read more
+            Three Poems from “I Look at My Body and See the Source of My Shame:
+            Ecstasy Facsimile”
           </a>
+          in <i>Miracle Monocle</i>
         </li>
         <li>
-          Poem from “I Look at My Body and See the Source of My Shame: Ecstasy
-          Facsimile” in Cordite
           <a
             href="http://cordite.org.au/poetry/transqueer/i-look-at-my-body-and-see-the-source-of-my-shame-ecstasy-facsimile/"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Read more
+            Poem from “I Look at My Body and See the Source of My Shame: Ecstasy
+            Facsimile”
           </a>
+          in <i>Cordite</i>
         </li>
         <li>
-          Poems from “Sentence” in Rogue Agent
           <a
             href="http://www.rogueagentjournal.com/issue40"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Read more
+            Poems from “Sentence”
           </a>
+          in <i>Rogue Agent</i>
         </li>
         <li>
-          Poems from “Sentence” in Transnational Literature
           <a
             href="https://fac.flinders.edu.au/dspace/api/core/bitstreams/c7d1b1e6-2673-4fd6-b1f3-bc25bbd17f49/content"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Read more
+            Poems from “Sentence”
           </a>
+          in <i>Transnational Literature</i>
         </li>
         <li>
-          Poems from “I Look at My Body and See the Source of My Shame” in
-          Heights
           <a
             href="https://issuu.com/heights-ateneo/docs/lxii_no._3__online_version_"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Read more
+            Poems from “I Look at My Body and See the Source of My Shame”
           </a>
+          in <i>Heights</i>
         </li>
         <li>
-          “As Vivien as Blanche” in Copper Nickel (reprinted by Verse Daily)
           <a
             href="http://www.versedaily.org/2013/asvivienasblanche.shtml"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Read more
+            “As Vivien as Blanche”
           </a>
+          in <i>Copper Nickel</i> (reprinted by Verse Daily)
         </li>
         <li>
-          “Mission Statement” in Asymptote Journal
           <a
             href="https://www.asymptotejournal.com/special-feature/mark-anthony-cayanan-mission-statement/"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Read more
+            “Mission Statement”
           </a>
+          in <i>Asymptote Journal</i>
         </li>
         <li>
-          Two Poems in Cha: An Asian Literary Journal
           <a
             href="https://www.asiancha.com/content/view/1373/390/"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Read more
+            Two Poems
           </a>
+          in <i>Cha: An Asian Literary Journal</i>
         </li>
         <li>
-          “As Rappaccini’s Daughter” in Fugue
           <a
             href="https://issuu.com/uidahodigital/docs/fugue44/6"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Read more
+            “As Rappaccini’s Daughter”
           </a>
+          in <i>Fugue</i>
         </li>
         <li>
-          “A Fatal Error Has Occurred” (He is listening to him explain) in
-          glitter tongue
           <a
             href="https://glittertongue.wordpress.com/cayanan-fatal-error-has-occurred/"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Read more
+            “A Fatal Error Has Occurred” (He is listening to him explain)
           </a>
+          in <i>glitter tongue</i>
         </li>
       </ul>
       <br />
