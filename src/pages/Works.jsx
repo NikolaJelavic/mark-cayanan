@@ -14,8 +14,8 @@ export default function Works() {
             className="block"
           >
             <img
-              src="img/unanimal.jpg"
-              alt="Image Alt Text"
+              src="/mark-cayanan/img/unanimal.jpg"
+              alt="unanimal"
               className="h-32 md:h-56 w-32 md:w-48 md:mb-4 rounded-lg transition-opacity"
             />
             <h5 className="mb-2 text-sm sm:text-md font-semibold tracking-tight text-gray-900 dark:text-white">
@@ -32,8 +32,8 @@ export default function Works() {
             rel="noopener noreferrer"
           >
             <img
-              src="img/enthrall.jpg"
-              alt="Image Alt Text"
+              src="/mark-cayanan/img/enthrall.jpg"
+              alt="enthrall"
               className="h-32 md:h-56 w-32 md:w-48 md:mb-4 rounded-lg transition-opacity"
             />
             <h5 className="mb-2 text-sm sm:text-md font-semibold tracking-tight text-gray-900 dark:text-white">
@@ -53,8 +53,8 @@ export default function Works() {
             className="block"
           >
             <img
-              src="img/narcissus.jpg"
-              alt="Image Alt Text"
+              src="/mark-cayanan/img/narcissus.jpg"
+              alt="narcissus"
               className="h-32 md:h-56 w-32 md:w-48 md:mb-4 rounded-lg transition-opacity"
             />
             <h5 className="mb-2 text-sm sm:text-md font-semibold tracking-tight text-gray-900 dark:text-white">
