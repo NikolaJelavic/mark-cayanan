@@ -2,16 +2,17 @@ import Footer from "../components/Footer";
 
 export default function Works() {
   return (
-    <div className="w-11/12 lg:w-1/2 mx-auto mt-10  ">
-      <h2 className="mt-8 mb-4">Full-Length Poetry Books</h2>
+    <div className="w-11/12 lg:w-1/2 mx-auto  h-fit ">
+      <h2 className=" mb-4">Full-Length Poetry Books</h2>
 
       <div className="flex justify-between">
-        <div className="md:w-56 md:p-4 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 transition-transform transform hover:scale-105 hover:shadow-lg">
+
+        <div className="m-1 md:w-56 md:p-4 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 transition-transform transform hover:scale-105 hover:shadow-lg">
           <a
             href="https://giramondopublishing.com/books/unanimal-counterfeit-scurrilous/"
             target="_blank"
             rel="noopener noreferrer"
-            className="block"
+            className="block m-1"
           >
             <img
               // src="/mark-cayanan/img/unanimal.jpg"
@@ -19,16 +20,17 @@ export default function Works() {
               alt="unanimal"
               className="h-32 md:h-56 w-32 md:w-48 md:mb-4 rounded-lg transition-opacity"
             />
-            <h5 className="mb-2 text-sm sm:text-md font-semibold tracking-tight text-gray-900 dark:text-white">
+            <h5 className="mb-2 text-xs sm:text-md font-semibold tracking-tight text-gray-900 dark:text-white">
               Unanimal, Counterfeit, Scurrilous.
             </h5>
             <h5 className="text-xs">Giramondo Publishing, 2021.</h5>
           </a>
         </div>
-        <div className="md:w-56 md:p-4 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 transition-transform transform hover:scale-105 hover:shadow-lg">
+
+        <div className="m-1 md:w-56 md:p-4 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 transition-transform transform hover:scale-105 hover:shadow-lg">
           <a
             href="https://press.up.edu.ph/project/except-you-enthrall-me/"
-            className="block"
+            className="block m-1"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -38,7 +40,7 @@ export default function Works() {
               alt="enthrall"
               className="h-32 md:h-56 w-32 md:w-48 md:mb-4 rounded-lg transition-opacity"
             />
-            <h5 className="mb-2 text-sm sm:text-md font-semibold tracking-tight text-gray-900 dark:text-white">
+            <h5 className="mb-2 text-xs sm:text-md font-semibold tracking-tight text-gray-900 dark:text-white">
               Except You Enthrall Me.
             </h5>
             <h5 className="text-xs">
@@ -47,12 +49,12 @@ export default function Works() {
           </a>
         </div>
 
-        <div className="md:w-56 md:p-4 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 transition-transform transform hover:scale-105 hover:shadow-lg">
+        <div className="m-1 md:w-56 md:p-4 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 transition-transform transform hover:scale-105 hover:shadow-lg">
           <a
             href="https://curiouscouch.wordpress.com/2011/10/15/narcissusmark-anthony-cayanan/"
             target="_blank"
             rel="noopener noreferrer"
-            className="block"
+            className="block m-1"
           >
             <img
               // src="/mark-cayanan/img/narcissus.jpg"
@@ -60,7 +62,7 @@ export default function Works() {
               alt="narcissus"
               className="h-32 md:h-56 w-32 md:w-48 md:mb-4 rounded-lg transition-opacity"
             />
-            <h5 className="mb-2 text-sm sm:text-md font-semibold tracking-tight text-gray-900 dark:text-white">
+            <h5 className="mb-2 text-xs sm:text-md font-semibold tracking-tight text-gray-900 dark:text-white">
               Narcissus.
             </h5>
             <h5 className="text-xs">

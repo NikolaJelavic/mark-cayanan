@@ -12,7 +12,7 @@ function App() {
   return (
     <Router>
       <Navbar />
-      <div>
+      <div className=''>
         <Routes>
           {/* <Route path="/home" element={<Home />} /> */}
           <Route path="/mark-cayanan/" element={<Home />} />
