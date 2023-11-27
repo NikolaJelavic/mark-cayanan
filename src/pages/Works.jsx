@@ -14,7 +14,8 @@ export default function Works() {
             className="block"
           >
             <img
-              src="/mark-cayanan/img/unanimal.jpg"
+              // src="/mark-cayanan/img/unanimal.jpg"
+              src="https://res.cloudinary.com/dvwnqprsp/image/upload/v1701123839/Mark-Cayanan/unanimal_skshp8.jpg"
               alt="unanimal"
               className="h-32 md:h-56 w-32 md:w-48 md:mb-4 rounded-lg transition-opacity"
             />
@@ -32,7 +33,8 @@ export default function Works() {
             rel="noopener noreferrer"
           >
             <img
-              src="/mark-cayanan/img/enthrall.jpg"
+              // src="/mark-cayanan/img/enthrall.jpg"
+              src="https://res.cloudinary.com/dvwnqprsp/image/upload/v1701123839/Mark-Cayanan/enthrall_bcsoxw.jpg"
               alt="enthrall"
               className="h-32 md:h-56 w-32 md:w-48 md:mb-4 rounded-lg transition-opacity"
             />
@@ -53,7 +55,8 @@ export default function Works() {
             className="block"
           >
             <img
-              src="/mark-cayanan/img/narcissus.jpg"
+              // src="/mark-cayanan/img/narcissus.jpg"
+              src="https://res.cloudinary.com/dvwnqprsp/image/upload/v1701123839/Mark-Cayanan/narcissus_dm3m4d.jpg"
               alt="narcissus"
               className="h-32 md:h-56 w-32 md:w-48 md:mb-4 rounded-lg transition-opacity"
             />
