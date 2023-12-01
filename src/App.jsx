@@ -15,10 +15,10 @@ function App() {
       <div className=''>
         <Routes>
           {/* <Route path="/home" element={<Home />} /> */}
-          <Route path="/mark-cayanan/" element={<Home />} />
-          <Route path="/mark-cayanan/about" element={<About />} />
-          <Route path="/mark-cayanan/works" element={<Works />} />
-          <Route path="/mark-cayanan/contact" element={<Contact />} />
+          <Route path="/" element={<Home />} />
+          <Route path="/about" element={<About />} />
+          <Route path="/works" element={<Works />} />
+          <Route path="/contact" element={<Contact />} />
         </Routes>
       </div>
     </Router>
