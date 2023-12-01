@@ -1,19 +1,12 @@
 
-
 export default function Home() {
-    
-    return <div className=" w-11/12 lg:w-1/3 mx-auto mt-10">
-    Mark Anthony Cayanan grew up in Angeles City, Philippines. 
-    
-    They obtained an MFA from the University of Wisconsin in Madison and a PhD from the University of Adelaide, where they received a Dean’s Commendation for Doctoral Thesis Excellence and the 2021 Doctoral Research Medal. 
-    
-    They are the author of three poetry books, namely <i>Narcissus</i> (Ateneo de Manila University Press, 2011); <i>Except you enthrall me</i> (University of the Philippines Press, 2013); and <i> Unanimal, Counterfeit, Scurrilous</i> (Giramondo Publishing, April 2021). 
-    
-    Their poems have been published in numerous literary magazines and journals, including <i> Kritika Kultura</i> and <i>Tomás</i> in the Philippines, <i>Indiana Review</i> and <i>Bennington Review</i> in the USA, and <i>Australian Poetry Journal</i> and <i>Overland</i> in Australia. 
-    
-    They are an Assistant Professor at the Ateneo de Manila University, and have taught creative writing and literature courses at UW-Madison and 
-    Humboldt-Universität zu Berlin. 
-    
-    They are also currently a postdoctoral fellow at the ICI Berlin Institute for Cultural Inquiry.
-    </div>
-};
+  
+    return (
+
+        <div className="bg-transparent">
+            <h1 className="text-center">Here goes an image and it will be challenging :)</h1>
+              <img src="https://res.cloudinary.com/dvwnqprsp/image/upload/v1701392777/Mark-Cayanan/Full-body_Milan_2_e6kfhl.jpg" alt="Mark Cayanan" 
+              className=" h-screen w-screen object-cover " />
+        </div>
+    );
+  }
