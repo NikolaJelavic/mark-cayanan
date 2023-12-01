@@ -6,7 +6,7 @@ export default function Navbar() {
       <ul className="flex justify-around space-x-4 w-3/5 mx-auto">
         <li>
           <Link
-            to="/mark-cayanan/about"
+            to="/about"
             className="text-pink-300  font-bold hover:text-pink-400 text-2xl"
           >
             About
@@ -14,7 +14,7 @@ export default function Navbar() {
         </li>
         <li>
           <Link
-            to="/mark-cayanan/works"
+            to="/works"
             className="text-pink-300 font-bold hover:text-pink-400 text-2xl"
           >
             Works
@@ -22,7 +22,7 @@ export default function Navbar() {
         </li>
         <li>
           <Link
-            to="/mark-cayanan/contact"
+            to="contact"
             className="text-pink-300 font-bold hover:text-pink-400 text-2xl"
           >
             Contact
