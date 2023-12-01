@@ -6,7 +6,7 @@ export default function Navbar() {
       <ul className="flex justify-around space-x-4 w-3/5 mx-auto">
           <li>
           <Link
-            to="/home"
+            to="/"
             className="text-pink-300 font-bold hover:text-pink-400 text-2xl"
           >
             Home
