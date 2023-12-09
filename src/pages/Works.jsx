@@ -115,24 +115,6 @@ export default function Works() {
         </li>
       </ul>
 
-      <h2 className="mt-8 mb-4">Textbook & Anthology</h2>
-      <ul>
-        <li>
-          <i>Fine Lines: Writing Poetry, Fiction, and Drama.</i> Sibs Publishing
-          House, 2016.
-        </li>
-        <li>
-          <a
-            href="https://journals.ateneo.edu/OJS/public/literary-supplement.pdf"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            The Kritika Kultura Anthology of New Philippine Writing in English
-          </a>
-          (2011), co-edited by Conchitina Cruz and Adam David
-        </li>
-      </ul>
-
       <h2 className="mt-8 mb-4">
         Recent Publications in Anthologies, Journals, and Magazines
       </h2>
@@ -155,7 +137,7 @@ export default function Works() {
           >
             “Foundation Day,” “Dramaticule: The Townsfolk,” and “A Wall of Trees
             Conceals Our Town from Another”
-          </a>
+          </a>{" "}
           in <i>TLDTD</i>
         </li>
         <li>
@@ -358,7 +340,7 @@ export default function Works() {
             rel="noopener noreferrer"
           >
             “Vigil”
-          </a>
+          </a> {" "}
           in <i>The Margins</i>
         </li>
         <li>
@@ -368,8 +350,8 @@ export default function Works() {
             rel="noopener noreferrer"
           >
             Two Poems from “Ecstasy Facsimile”
-          </a>
-          in <i>Figure 1</i>
+          </a>{" "}
+          in <i>Figure 1</i> 
         </li>
         <li>
           <a
@@ -378,7 +360,7 @@ export default function Works() {
             rel="noopener noreferrer"
           >
             Poem from “Ecstasy Facsimile”
-          </a>
+          </a>{" "}
           in <i>EVENT: Poetry and Prose</i>
         </li>
         <li>
@@ -389,7 +371,7 @@ export default function Works() {
           >
             “As Aschenbach” (There’s no knowing now),” “Aschenbach in Crisis,”
             and “Notes on Terror”
-          </a>
+          </a>{" "} 
           in <i>Bæst</i>
         </li>
         <li>
@@ -399,7 +381,7 @@ export default function Works() {
             rel="noopener noreferrer"
           >
             “Naïve and Sentimental”
-          </a>
+          </a>{" "}
           in <i>The Hunger</i>
         </li>
         <li>
@@ -409,7 +391,7 @@ export default function Works() {
             rel="noopener noreferrer"
           >
             “One Among”
-          </a>
+          </a>{" "}
           in <i>Mascara Literary Review</i>
         </li>
         <li>
@@ -420,7 +402,7 @@ export default function Works() {
           >
             Two Poems from “I Look at My Body and See the Source of My Shame:
             Ecstasy Facsimile”
-          </a>
+          </a>{" "}
           in <i>Cordite</i>
         </li>
         <li>
@@ -431,7 +413,7 @@ export default function Works() {
           >
             Five Poems from “I Look at My Body and See the Source of My Shame:
             Ecstasy Facsimile”
-          </a>
+          </a>{" "}
           in <i>Dreginald</i>
         </li>
         <li>
@@ -443,7 +425,7 @@ export default function Works() {
             “Self-Portraits with Tyrannical Consistency,” “The World
             Uncontrollably Slides into Bizarre and Grotesque Derangement,” and
             “Ode to the Exit Sign”
-          </a>
+          </a>{" "}
           in <i>The Spectacle</i>
         </li>
         <li>
@@ -454,7 +436,7 @@ export default function Works() {
           >
             Poem from “I Look at My Body and See the Source of My Shame: Ecstasy
             Facsimile”
-          </a>
+          </a>{" "}
           in <i>Crab Orchard Review</i>
         </li>
         <li>
@@ -465,7 +447,7 @@ export default function Works() {
           >
             Four Poems from “I Look at My Body and See the Source of My Shame:
             Site Specific”
-          </a>
+          </a>{" "}
           in <i>Kritika Kultura</i>
         </li>
         <li>
@@ -475,7 +457,7 @@ export default function Works() {
             rel="noopener noreferrer"
           >
             “Motus Animi Continuus”
-          </a>
+          </a>{" "}
           in <i>Foglifter</i>
         </li>
         <li>
@@ -485,7 +467,7 @@ export default function Works() {
             rel="noopener noreferrer"
           >
             “A History of Western Looking”
-          </a>
+          </a>{" "}
           in <i>Stilts</i>
         </li>
         <li>
@@ -496,7 +478,7 @@ export default function Works() {
           >
             Three Poems from “I Look at My Body and See the Source of My Shame:
             Ecstasy Facsimile”
-          </a>
+          </a>{" "}
           in <i>Miracle Monocle</i>
         </li>
         <li>
@@ -507,7 +489,7 @@ export default function Works() {
           >
             Poem from “I Look at My Body and See the Source of My Shame: Ecstasy
             Facsimile”
-          </a>
+          </a>{" "}
           in <i>Cordite</i>
         </li>
         <li>
@@ -517,7 +499,7 @@ export default function Works() {
             rel="noopener noreferrer"
           >
             Poems from “Sentence”
-          </a>
+          </a>{" "}
           in <i>Rogue Agent</i>
         </li>
         <li>
@@ -527,7 +509,7 @@ export default function Works() {
             rel="noopener noreferrer"
           >
             Poems from “Sentence”
-          </a>
+          </a>{" "}
           in <i>Transnational Literature</i>
         </li>
         <li>
@@ -537,7 +519,7 @@ export default function Works() {
             rel="noopener noreferrer"
           >
             Poems from “I Look at My Body and See the Source of My Shame”
-          </a>
+          </a>{" "}
           in <i>Heights</i>
         </li>
         <li>
@@ -547,7 +529,7 @@ export default function Works() {
             rel="noopener noreferrer"
           >
             “As Vivien as Blanche”
-          </a>
+          </a>{" "}
           in <i>Copper Nickel</i> (reprinted by Verse Daily)
         </li>
         <li>
@@ -557,7 +539,7 @@ export default function Works() {
             rel="noopener noreferrer"
           >
             “Mission Statement”
-          </a>
+          </a>{" "}
           in <i>Asymptote Journal</i>
         </li>
         <li>
@@ -567,7 +549,7 @@ export default function Works() {
             rel="noopener noreferrer"
           >
             Two Poems
-          </a>
+          </a>{" "}
           in <i>Cha: An Asian Literary Journal</i>
         </li>
         <li>
@@ -577,7 +559,7 @@ export default function Works() {
             rel="noopener noreferrer"
           >
             “As Rappaccini’s Daughter”
-          </a>
+          </a>{" "}
           in <i>Fugue</i>
         </li>
         <li>
@@ -587,7 +569,7 @@ export default function Works() {
             rel="noopener noreferrer"
           >
             “A Fatal Error Has Occurred” (He is listening to him explain)
-          </a>
+          </a>{" "}
           in <i>glitter tongue</i>
         </li>
       </ul>
