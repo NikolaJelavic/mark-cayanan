@@ -3,7 +3,7 @@ import Footer from "../components/Footer";
 
 export default function About() {
     
-    return <div className=" w-11/12 lg:w-1/2 mx-auto mt-20	"><div >
+    return <div className=" w-11/12 lg:w-1/2 mx-auto mt-14	"><div >
     Mark Anthony Cayanan grew up in Angeles City, Philippines. 
     
     They obtained an MFA from the University of Wisconsin in Madison and a PhD from the University of Adelaide, where they received a Dean’s Commendation for Doctoral Thesis Excellence and the 2021 Doctoral Research Medal. 
@@ -25,7 +25,7 @@ export default function About() {
 <br />
 <Footer />
 </div>
-};
+}
 
 
 
