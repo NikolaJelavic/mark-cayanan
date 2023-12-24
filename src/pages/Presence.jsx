@@ -29,6 +29,17 @@ export default function Presence() {
         Writing Fellow, Civitella Ranieri Foundation in Umbertide, Italy (2013), <a href="https://civitella.org/fellow/mark-cayanan/" target="_blank" rel="noopener noreferrer">Civitella Ranieri Foundation</a>
     </li>
 </ul>
+<div className="mt-8 aspect-w-16 aspect-h-9">
+        <iframe
+          src="https://player.vimeo.com/video/877878037"
+          width="640"
+          height="360"
+          allow="autoplay; fullscreen"
+          allowFullScreen
+          title="Embedded Vimeo Video"
+          className="w-full h-full"
+        ></iframe>
+      </div>
 </div>
     )
 };
