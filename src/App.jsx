@@ -7,6 +7,7 @@ import Navbar from './components/Navbar';
 import Home from './pages/Home';
 
 import './App.css'
+import Presence from './pages/Presence';
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
           <Route path="/about" element={<About />} />
           <Route path="/works" element={<Works />} />
           <Route path="/contact" element={<Contact />} />
+          <Route path="/presence" element={<Presence/>}/>
         </Routes>
       </div>
     </Router>
