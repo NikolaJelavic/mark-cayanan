@@ -24,7 +24,7 @@ export default function Navbar() {
     <nav className=" p-6 bg-transparent">
       <div className="flex justify-between mx-auto relative z-10">
       <button
-          className="lg:hidden text-white text-3xl focus:outline-none bg-pink-400 p-4 justify-left"
+          className="lg:hidden text-white text-3xl focus:outline-none bg-pink-300 p-4 justify-left"
           onClick={toggleMenu}
         >
           &#9776;
@@ -32,7 +32,7 @@ export default function Navbar() {
         <ul
           className={`${
             isMenuOpen ? "block" : "hidden"
-          } lg:flex lg:justify-evenly  lg:space-x-4 lg:w-full w-36 absolute lg:relative bg-pink-400 lg:bg-transparent top-full lg:top-0 left-0 lg:left-auto  lg:mt-0 p-4 lg:p-0 `}
+          } lg:flex lg:justify-evenly  lg:space-x-4 lg:w-full w-36 absolute lg:relative bg-pink-300 lg:bg-transparent top-full lg:top-0 left-0 lg:left-auto  lg:mt-0 p-4 lg:p-0 `}
         >
           <NavLink to="/" onClick={toggleMenu}>
             Home

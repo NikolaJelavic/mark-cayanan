@@ -1,3 +1,4 @@
+import Footer from "../components/Footer";
 
 
 export default function Presence() {
@@ -40,6 +41,13 @@ export default function Presence() {
           className="w-full h-full"
         ></iframe>
       </div>
+      <br />
+      <p>
+      Cite as: Mark Anthony Cayanan, &apos;The Exophonic Lyric: A Poetics&apos;, talk presented at the panel 1 of the workshop <i>Making and Breaking Models</i>, ICI Berlin, 16-17 October 2023
+      </p>
+      <br /><br /><br />
+      <br />
+<Footer />
 </div>
     )
 };
