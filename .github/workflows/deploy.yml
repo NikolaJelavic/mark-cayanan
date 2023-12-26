@@ -49,3 +49,6 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
+          //added
+           env:
+          NODE_DEBUG: '1'  # Enable debug output for Node.js
