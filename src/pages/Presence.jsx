@@ -38,7 +38,6 @@ export default function Presence() {
             src="https://player.vimeo.com/video/877878037"
            
             allow="autoplay; fullscreen"
-            allowFullScreen
             title="Embedded Vimeo Video"
             className="w-full h-full"
             ></iframe>
@@ -54,7 +53,6 @@ export default function Presence() {
             src="https://player.vimeo.com/video/846554272"
             
             allow="autoplay; fullscreen"
-            allowFullScreen
             title="Embedded Vimeo Video"
             className="w-full h-full"
             ></iframe>
@@ -69,7 +67,6 @@ export default function Presence() {
             src="https://www.youtube.com/embed/ja33k7AOHAc"
             
             allow="autoplay; fullscreen"
-            allowFullScreen
             title="Embedded YT Video"
             className="w-full h-full"
             ></iframe>
@@ -85,7 +82,6 @@ export default function Presence() {
             src="https://www.youtube.com/embed/Sk9n5NP8Yv8?t=2564s"
             
             allow="autoplay; fullscreen"
-            allowFullScreen
             title="Embedded YT Video"
             className="w-full h-full"
             ></iframe>
@@ -100,7 +96,6 @@ export default function Presence() {
             src="https://www.youtube.com/embed/jLhBy47rcWU"
             
             allow="autoplay; fullscreen"
-            allowFullScreen
             title="Embedded YT Video"
             className="w-full h-full"
             ></iframe>
@@ -116,7 +111,6 @@ export default function Presence() {
             src="https://www.youtube.com/embed/8nDnX8p-mU8"
             
             allow="autoplay; fullscreen"
-            allowFullScreen
             title="Embedded YT Video"
             className="w-full h-full"
             ></iframe>
