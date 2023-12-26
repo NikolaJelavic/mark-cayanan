@@ -11,7 +11,7 @@ import Presence from './pages/Presence';
 
 function App() {
   return (
-    <Router basename="/mark-cayanan">
+    <Router>
       <Navbar />
       <div className=''>
         <Routes>
