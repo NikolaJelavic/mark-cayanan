@@ -34,7 +34,7 @@ export default function Navbar() {
             isMenuOpen ? "block" : "hidden"
           } lg:flex lg:justify-evenly  lg:space-x-4 lg:w-full w-36 absolute lg:relative bg-pink-300 lg:bg-transparent top-full lg:top-0 left-0 lg:left-auto  lg:mt-0 p-4 lg:p-0 `}
         >
-          <NavLink to="/" onClick={toggleMenu} end>
+          <NavLink to="/" onClick={toggleMenu}>
             Home
           </NavLink>
           <NavLink to="/about" onClick={toggleMenu}>
