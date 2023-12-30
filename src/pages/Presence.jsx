@@ -41,7 +41,7 @@ export default function Presence() {
             className="w-full h-full"
             ></iframe>
             <p className="mt-2">
-                Cite as: Mark Anthony Cayanan, &apos;<i>The Exophonic Lyric: A Poetics</i>&apos;, talk presented at the panel 1 of the workshop <i>Making and Breaking Models</i>, ICI Berlin, 16-17 October 2023
+                Mark Anthony Cayanan, &apos;<i>The Exophonic Lyric: A Poetics</i>&apos;, talk presented at the panel 1 of the workshop <i>Making and Breaking Models</i>, ICI Berlin, 16-17 October 2023
             </p>
         </div>
     </div>
@@ -56,7 +56,7 @@ export default function Presence() {
             className="w-full h-full"
             ></iframe>
             <p className="">
-                Cite as: Mark Anthony Cayanan, Introduction to the lecture, reading Maggie Nelson, The Forms Things Want to Come As, ICI Berlin, 12 July 2023
+                Mark Anthony Cayanan, Introduction to the lecture, reading Maggie Nelson, The Forms Things Want to Come As, ICI Berlin, 12 July 2023
             </p>
         </div>
     </div>
