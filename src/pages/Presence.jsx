@@ -86,7 +86,7 @@ export default function Presence() {
         </li>
 
         <li>
-        &quot;Spectacular Poems: &apos;The New Abandon&apos;&quot;, Kent Shaw, {" "}
+          &quot;Spectacular Poems: &apos;The New Abandon&apos;&quot;, Kent Shaw,{" "}
           <a
             href="https://thekalliope.org/the-new-abandon-by-mark-anthony-cayanan/"
             target="_blank"
@@ -97,7 +97,7 @@ export default function Presence() {
         </li>
 
         <li>
-        Review of <i>Unanimal, Counterfeit, Scurrilous</i>, James Antoniou,{" "}
+          Review of <i>Unanimal, Counterfeit, Scurrilous</i>, James Antoniou,{" "}
           <a
             href="https://www.australianbookreview.com.au/abr-online/archive/2021/june-2021-no-432/964-june-2021-no-432/7814-james-antoniou-reviews-unanimal-counterfeit-scurrilous-by-mark-anthony-cayanan-errant-night-by-jerzy-beaumont-and-i-said-the-sea-was-folded-by-erik-jensen"
             target="_blank"
@@ -106,7 +106,6 @@ export default function Presence() {
             Australian Book Review
           </a>
         </li>
-
       </ul>
 
       <div className="mt-2">
@@ -139,6 +138,7 @@ export default function Presence() {
             </p>
           </div>
         </div>
+
         <div className="aspect-w-16 aspect-h-9 mb-32">
           <div>
             <iframe
@@ -149,6 +149,20 @@ export default function Presence() {
             ></iframe>
             <p className="">
               &quot;Teaching Creative Writing: Poetry&quot; CLASS Lecture Series
+            </p>
+          </div>
+        </div>
+
+        <div className="aspect-w-16 aspect-h-9 mb-32">
+          <div>
+            <iframe
+              src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fwatch%2F%3Fv%3D416562462763950"
+              allow="autoplay; fullscreen"
+              title="Embedded FB Video"
+              className="w-full h-full"
+            ></iframe>
+            <p className="">
+              Poetry Talk for The Writer&apos;s Block, Beacon Academy
             </p>
           </div>
         </div>
