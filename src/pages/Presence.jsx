@@ -1,6 +1,38 @@
 import Footer from "../components/Footer";
 
+import { useEffect, useState } from 'react';
+
+
 export default function Presence() {
+
+  const [showButton, setShowButton] = useState(false);
+
+  // Function to scroll to the top of the page
+  const scrollToTop = () => {
+    document.body.scrollTop = 0; // For Safari
+    document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE, and Opera
+  };
+
+  // Show/hide the "back to top" button based on scroll position
+  const handleScroll = () => {
+    if (window.scrollY > 20) {
+      setShowButton(true);
+    } else {
+      setShowButton(false);
+    }
+  };
+
+  useEffect(() => {
+    window.addEventListener('scroll', handleScroll);
+
+    // Cleanup the event listener when the component is unmounted
+    return () => {
+      window.removeEventListener('scroll', handleScroll);
+    };
+  }, []);
+
+
+
   return (
     <div className=" w-11/12 lg:w-1/2 mx-auto 	">
       <h2 className="mt-8 mb-4">Profiles</h2>
@@ -215,7 +247,15 @@ export default function Presence() {
       <br />
       <br />
       <br />
-
+      <button
+      id="backToTopBtn"
+      className={`${
+        showButton ? 'block' : 'hidden'
+      } fixed bottom-16 md:bottom-24 right-4 md:right-10 h-12 w-12 bg-pink-400 text-darkgray border-none rounded-full cursor-pointer transition-opacity duration-300 hover:bg-darkgray hover:text-black`}
+      onClick={scrollToTop}
+    >
+      &#8679; {/* Unicode for an arrow pointing upwards */}
+    </button>
       <Footer />
     </div>
   );
