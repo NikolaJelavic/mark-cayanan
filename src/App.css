@@ -22,5 +22,10 @@ a{
 }
 
 h2{
-  color:rgb(245, 163, 178)
+  color:rgb(245, 163, 178);
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+p, a, h5, li {
+  font-family: 'Urbanist', sans-serif;
 }

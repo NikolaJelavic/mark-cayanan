@@ -4,7 +4,12 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        'josefin-sans': ['Josefin Sans', 'sans-serif'],
+        urbanist: ['Urbanist', 'sans-serif'],
+      },
+    },
   },
   plugins: [
     require('@tailwindcss/aspect-ratio'),
