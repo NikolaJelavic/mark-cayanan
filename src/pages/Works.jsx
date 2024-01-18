@@ -100,7 +100,7 @@ export default function Works() {
         </div>
       </div>
 
-      <h2 className="mt-8 mb-4">Chapbooks</h2>
+      <h2 className=" mt-8 mb-4">Chapbooks</h2>
       <ul>
         <li>
           <i>Long Hunger.</i> Youth & Beauty Brigade, 2017.
@@ -125,7 +125,7 @@ export default function Works() {
         </li>
       </ul>
 
-      <h2 className="mt-8 mb-4">Textbook & Anthology</h2>
+      <h2 className=" mt-8 mb-4">Textbook & Anthology</h2>
       <ul>
         <li>
           <i>Fine Lines: Writing Poetry, Fiction, and Drama.</i> Sibs Publishing
@@ -143,7 +143,7 @@ export default function Works() {
         </li>
       </ul>
 
-      <h2 className="mt-8 mb-4">
+      <h2 className=" mt-8 mb-4">
         Recent Publications in Anthologies, Journals, and Magazines
       </h2>
       <ul>
