@@ -5,7 +5,7 @@ const NavLink = ({ to, children, onClick }) => (
   <li>
     <Link
       to={to}
-      className="text-pink-300 font-bold hover:text-pink-400 text-3xl bg-slate-100 px-2 rounded-xl my-3"
+      className="text-pink-300 font-bold hover:text-pink-400 text-3xl bg-slate-100 px-2 pt-1 rounded-xl my-3"
       onClick={onClick}
       style={{
         fontFamily: "'Josefin Sans', sans-serif",
@@ -35,7 +35,7 @@ export default function Navbar() {
         <ul
           className={`${
             isMenuOpen ? "block" : "hidden"
-          } lg:flex lg:justify-evenly  lg:space-x-4 lg:w-full w-36 absolute lg:relative bg-pink-300 lg:bg-transparent top-full lg:top-0 left-0 lg:left-auto  lg:mt-0 p-4 lg:p-0 `}
+          } lg:flex lg:justify-evenly  lg:space-x-4 lg:w-full w-40 absolute lg:relative bg-pink-300 lg:bg-transparent top-full lg:top-0 left-0 lg:left-auto  lg:mt-0 p-4 lg:p-0 `}
         >
           <NavLink to="/" onClick={toggleMenu}>
             Home
