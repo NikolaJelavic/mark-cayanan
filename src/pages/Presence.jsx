@@ -35,7 +35,7 @@ export default function Presence() {
 
   return (
     <div className=" w-11/12 lg:w-1/2 mx-auto 	">
-      <h2 className=" mt-8 mb-4">Profiles</h2>
+      <h2 className=" md:mt-8 mb-4">Profiles</h2>
 
       <ul>
         <li>
