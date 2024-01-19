@@ -23,9 +23,10 @@ a{
 
 h2{
   color:rgb(245, 163, 178);
-  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'Cormorant Unicase', serif;
+  font-size: 1.3em !important;
 }
 
 p, a, h5, li {
-  font-family: 'Urbanist', sans-serif;
+  font-family: 'Cormorant Garamond', serif;
 }

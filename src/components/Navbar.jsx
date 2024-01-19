@@ -5,10 +5,10 @@ const NavLink = ({ to, children, onClick }) => (
   <li>
     <Link
       to={to}
-      className="text-pink-300 font-bold hover:text-pink-400 text-3xl bg-slate-100 px-2 pt-1 rounded-xl my-3"
+      className="text-pink-300 hover:text-pink-400 text-3xl bg-slate-100 px-2  rounded-xl my-3 font-light"
       onClick={onClick}
       style={{
-        fontFamily: "'Josefin Sans', sans-serif",
+        fontFamily: "'Cormorant Unicase', sans-serif",
       }}
     >
       {children}
