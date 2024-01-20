@@ -51,7 +51,7 @@ export default function Contact() {
   return (
     <div className="w-11/12 lg:w-1/2 mx-auto">
       <div className="flex justify-center items-center flex-col">
-        <h1 className="text-xl md:text-2xl mt-3 sm:w-2/3 text-center">
+        <h1 className="text-xl md:text-2xl md:mt-3 sm:w-2/3 text-center">
           To touch base, just shoot me an email (mcayanan@gmail.com) or fill out
           the form below!
         </h1>
