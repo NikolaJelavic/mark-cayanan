@@ -96,7 +96,7 @@ export default function Contact() {
           <input
             type="submit"
             value="Send"
-            className="w-full px-4 py-2 text-lg font-semibold text-white bg-pink-300 rounded hover:bg-pink-500 focus:outline-none focus:bg-blue-600"
+            className="w-full px-4 py-2 text-lg font-semibold text-white bg-pink-300 rounded hover:bg-pink-500 focus:outline-none focus:bg-blue-600 font-garamond"
           />
         </div>
       </form>
