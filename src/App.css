@@ -21,6 +21,12 @@ a{
   color:rgb(245, 163, 178)
 }
 
+h1, label{
+  font-family: 'Cormorant Unicase', serif;
+  font-size: 1.8em !important;
+
+}
+
 h2{
   color:rgb(245, 163, 178);
   font-family: 'Cormorant Unicase', serif;
@@ -29,4 +35,12 @@ h2{
 
 p, a, h5, li {
   font-family: 'Cormorant Garamond', serif;
+}
+
+.font-garamond {
+  font-family: 'Cormorant Garamond', serif;
+}
+
+i {
+  font-style: italic;
 }

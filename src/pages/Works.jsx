@@ -48,10 +48,10 @@ export default function Works() {
               alt="unanimal"
               className="h-32 md:h-56 w-32 md:w-48 md:mb-4 rounded-lg transition-opacity"
             />
-            <h5 className="mb-2 text-xs sm:text-md font-semibold tracking-tight text-gray-900 dark:text-white">
+            <h5 className="mb-2 text-sm sm:text-xl font-semibold tracking-tight text-gray-900 dark:text-white">
               Unanimal, Counterfeit, Scurrilous.
             </h5>
-            <h5 className="text-xs">Giramondo Publishing, 2021.</h5>
+            <h5 className="text-xs md:text-base">Giramondo Publishing, 2021.</h5>
           </a>
         </div>
 
@@ -68,10 +68,10 @@ export default function Works() {
               alt="enthrall"
               className="h-32 md:h-56 w-32 md:w-48 md:mb-4 rounded-lg transition-opacity"
             />
-            <h5 className="mb-2 text-xs sm:text-md font-semibold tracking-tight text-gray-900 dark:text-white">
+            <h5 className="mb-2 text-sm sm:text-xl font-semibold tracking-tight text-gray-900 dark:text-white">
               Except You Enthrall Me.
             </h5>
-            <h5 className="text-xs">
+            <h5 className="text-xs md:text-base">
               University of the Philippines Press, 2013.
             </h5>
           </a>
@@ -90,10 +90,10 @@ export default function Works() {
               alt="narcissus"
               className="h-32 md:h-56 w-32 md:w-48 md:mb-4 rounded-lg transition-opacity"
             />
-            <h5 className="mb-2 text-xs sm:text-md font-semibold tracking-tight text-gray-900 dark:text-white">
+            <h5 className="mb-2 text-sm sm:text-xl font-semibold tracking-tight text-gray-900 dark:text-white">
               Narcissus.
             </h5>
-            <h5 className="text-xs">
+            <h5 className="text-xs md:text-base">
               Ateneo de Manila University Press, 2011.
             </h5>
           </a>
