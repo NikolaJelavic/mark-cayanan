@@ -138,6 +138,18 @@ export default function Presence() {
             Australian Book Review
           </a>
         </li>
+
+        <li>
+        Introductions to <i>Johannes Heldén, Jaya Jacobo, and Donna Stonecipher </i>,
+          <a
+            href="https://www.ici-berlin.org/events/trails-and-ruins/ "
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Trails and Ruins: Poetry and Poetics of Place
+          </a> ICI Berlin
+        </li>
+
       </ul>
 
       <div className="mt-2">
