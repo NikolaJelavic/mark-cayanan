@@ -139,7 +139,7 @@ export default function Presence() {
           </a>
         </li>
 
-        <li>
+        {/* <li>
         Introductions to <i>Johannes Heldén, Jaya Jacobo, and Donna Stonecipher </i>,
           <a
             href="https://www.ici-berlin.org/events/trails-and-ruins/ "
@@ -148,11 +148,57 @@ export default function Presence() {
           >
             Trails and Ruins: Poetry and Poetics of Place
           </a> ICI Berlin
-        </li>
+        </li> */}
 
       </ul>
 
       <div className="mt-2">
+
+      <div className="aspect-w-16 aspect-h-9 mb-32 mt-10">
+          <div>
+            <iframe
+              src="https://player.vimeo.com/video/915185646"
+              allow="autoplay; fullscreen"
+              title="Embedded Vimeo Video"
+              className="w-full h-full"
+            ></iframe>
+            <p className="mt-2">
+              &quot;Introductions to Johannes Heldén, Jaya Jacobo, and Donna Stonecipher&quot;,{" "}
+              <i>Trails and Ruins: Poetry and Poetics of Place</i>, ICI Berlin
+            </p>
+          </div>
+        </div>  
+
+      <div className="aspect-w-16 aspect-h-9 mb-32 mt-10">
+          <div>
+            <iframe
+              src="https://player.vimeo.com/video/915183769"
+              allow="autoplay; fullscreen"
+              title="Embedded Vimeo Video"
+              className="w-full h-full"
+            ></iframe>
+            <p className="mt-2">
+              &quot;Introductions to Johannes Heldén, Jaya Jacobo, and Donna Stonecipher&quot;,{" "}
+              <i>Trails and Ruins: Poetry and Poetics of Place</i>, ICI Berlin
+            </p>
+          </div>
+        </div>
+
+      <div className="aspect-w-16 aspect-h-9 mb-32 mt-10">
+          <div>
+            <iframe
+              src="https://player.vimeo.com/video/915187426"
+              allow="autoplay; fullscreen"
+              title="Embedded Vimeo Video"
+              className="w-full h-full"
+            ></iframe>
+            <p className="mt-2">
+              &quot;Introductions to Johannes Heldén, Jaya Jacobo, and Donna Stonecipher&quot;,{" "}
+              <i>Trails and Ruins: Poetry and Poetics of Place</i>, ICI Berlin
+            </p>
+          </div>
+        </div>
+
         <div className="aspect-w-16 aspect-h-9 mb-32 mt-10">
           <div>
             <iframe
