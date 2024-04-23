@@ -586,7 +586,7 @@ export default function Works() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            “As Rappaccini’s Daughter”
+            “As Rappaccini&apos;s Daughter”
           </a>{" "}
           in <i>Fugue</i>
         </li>
@@ -599,6 +599,16 @@ export default function Works() {
             “A Fatal Error Has Occurred” (He is listening to him explain)
           </a>{" "}
           in <i>glitter tongue</i>
+        </li>
+        <li>
+          <a
+            href="https://www.thecommononline.org/ecstasy-facsimile/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            “Ecstasy Facsimile” (Longing to nake his life)
+          </a>{" "}
+           in <i>The Common</i>
         </li>
       </ul>
       <br />
