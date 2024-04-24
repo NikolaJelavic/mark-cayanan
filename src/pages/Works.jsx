@@ -596,7 +596,7 @@ export default function Works() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            “Ecstasy Facsimile” (Longing to nake his life)
+            “Ecstasy Facsimile” (Longing to make his life)
           </a>{" "}
            in <i>The Common</i>
         </li>
