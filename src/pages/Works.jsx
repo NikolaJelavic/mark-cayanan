@@ -147,6 +147,16 @@ export default function Works() {
         Recent Publications in Anthologies, Journals, and Magazines
       </h2>
       <ul>
+      <li>
+          <a
+            href="https://www.thecommononline.org/ecstasy-facsimile/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            “Ecstasy Facsimile” 
+          </a>{" "}(Longing to make his life)
+           in <i>The Common</i>
+        </li>
         <li>
           <a
             href="https://www.thecommononline.org/april-2023-poetry-feature/"
@@ -590,16 +600,7 @@ export default function Works() {
           </a>{" "}
           in <i>Fugue</i>
         </li>
-        <li>
-          <a
-            href="https://www.thecommononline.org/ecstasy-facsimile/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            “Ecstasy Facsimile” (Longing to make his life)
-          </a>{" "}
-           in <i>The Common</i>
-        </li>
+     
         <li>
           <a
             href="https://glittertongue.wordpress.com/cayanan-fatal-error-has-occurred/"
