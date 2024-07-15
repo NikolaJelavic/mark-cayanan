@@ -38,6 +38,17 @@ export default function Presence() {
       <h2 className=" md:mt-8 mb-4">Profiles</h2>
 
       <ul>
+      <li>
+         Writer in Residence,{" "}
+          <a
+            href="https://koneensaatio.fi/en/news/2025-saari-residence-residencies-are-announced/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+             Saari Residence
+          </a>
+          ,{" "} in Hietamäki, Finland (forthcoming in 2025)
+        </li>
         <li>
           Postdoctoral Research Fellow,{" "}
           <a
@@ -153,6 +164,21 @@ export default function Presence() {
       </ul>
 
       <div className="mt-2">
+
+      <div className="aspect-w-16 aspect-h-9 mb-32 mt-10">
+          <div>
+            <iframe
+              src="https://player.vimeo.com/video/981824950"
+              allow="autoplay; fullscreen"
+              title="Embedded Vimeo Video"
+              className="w-full h-full"
+            ></iframe>
+            <p className="mt-2">
+              &quot;Introduction to the Artist Conversation&quot;,{" "}
+              <i>Queer Waste Symposium</i>, ICI Berlin
+            </p>
+          </div>
+        </div>  
 
       <div className="aspect-w-16 aspect-h-9 mb-32 mt-10">
           <div>
